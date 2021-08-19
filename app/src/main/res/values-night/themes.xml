@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MercadoLibreChallenge" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:textColor">@color/darkText</item>
+        <item name="colorControlNormal">@color/darkText</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/status</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

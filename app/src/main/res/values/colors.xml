@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status">#FFF5D315</color>
+    <color name="main">#FFFFDB15</color>
+    <color name="main_transparent">#00F5D315</color>
+    <color name="background">#EDEDED</color>
+    <color name="favorite">#3683F8</color>
+    <color name="lightGray">#F5F5F5</color>
+    <color name="separator">#E0E0E0</color>
+
+    <color name="darkText">#333333</color>
+    <color name="lightText">#757575</color>
+</resources>

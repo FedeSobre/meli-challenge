@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">MercadoLibre Challenge</string>
+
+    <string name="categorySearch">Buscar productos por categoría</string>
+    <string name="searchDefault">Buscar en Mercado Libre</string>
+
+    <string name="favorites">Favoritos</string>
+    <string name="emptyFavorites">No se han guardado favoritos</string>
+
+    <string name="product">Producto</string>
+    <string name="productURL">URL del producto</string>
+    <string name="productShare">Comparte este producto</string>
+
+    <string name="description">Descripción</string>
+
+    <string name="newItem">Nuevo</string>
+    <string name="usedItem">Usado</string>
+
+    <string name="soldSingular">vendido</string>
+    <string name="soldPlural">vendidos</string>
+
+    <string name="stock">Stock disponible</string>
+    <string name="noStock">No hay unidades en stock</string>
+    <string name="unit">unidad</string>
+    <string name="units">unidades</string>
+
+    <string name="openExternal">Abrir en MercadoLibre</string>
+
+    <string name="exSeach">No se pudo completar la búsqueda</string>
+    <string name="exProductLoad">No se pudo cargar el producto</string>
+    <string name="exProductsLoad">No se pudieron cargar los productos</string>
+    <string name="exCategoriesLoad">No se pudieron cargar las categorías</string>
+    <string name="exPicturesLoad">No se pudieron cargar las imágenes del producto</string>
+    <string name="exDecriptionLoad">No se pudo cargar la descripción del producto</string>
+
+    <string name="exFavoritesLoad">No se pudo cargar la lista de favoritos</string>
+
+</resources>

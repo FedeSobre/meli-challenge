@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.efeinfo.meli.challenge">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MercadoLibreChallenge">
+
+        <activity android:name=".activities.ActivityMain" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activities.ActivityResults" android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".activities.ActivitySearch" android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".activities.ActivityFavorites" android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".activities.ActivityProduct" android:configChanges="keyboardHidden|orientation|screenSize"/>
+
+    </application>
+
+</manifest>
